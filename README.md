@@ -1,1 +1,4 @@
-# python12pm
+# Python 12 PM Class
+## Introduction
+
+* Basic 
