@@ -221,3 +221,14 @@
 # print(dir(os))
 
 # print(os.getcwd())
+
+# from lib import users
+
+# print(users.add())
+# print(users.insert())
+
+from lib.users import insert
+from lib.demo import insert as my_insert
+
+print(insert(1))
+print(my_insert())
